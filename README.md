@@ -30,6 +30,8 @@ Each query was validated against native BigQuery SQL ground truth.
 
 **Overall: 16/30 queries failed (53% failure rate on Tier 2–3 queries)**
 
+![30-Query Stress Test Results](https://raw.githubusercontent.com/anijic/nlq_platform_stress_test/main/30-Query-Screenshot.jpg)
+
 ## Key Deliverable
 A consultant-grade Readiness Report and Root Cause Friction Log 
 directly incorporated into the client's engineering roadmap.
