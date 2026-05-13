@@ -1,4 +1,9 @@
 # Enterprise NL2SQL Semantic Layer Stress-Test & QA
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NL2SQL](https://img.shields.io/badge/NL2SQL-QA-orange?style=flat)
+![DoE](https://img.shields.io/badge/Design_of_Experiments-30_Queries-blue?style=flat)
 
 ## The Business Problem
 AI-powered NLQ platforms promise to let business users query data in plain English. But without rigorous stress-testing, these platforms ship with silent failure modes — wrong joins, hallucinated columns, and broken aggregations that produce confident-looking wrong answers.
